@@ -1,0 +1,92 @@
+*{
+  scroll-behavior: smooth;
+}
+
+.landingpage-main-container{
+  background-image: url("Assets/herosectionimgh.png");
+  background-size: cover;
+  background-position: center;
+  background-color: rgb(17, 17, 149);
+}
+
+
+
+
+.features-main-container{
+  background-image: url("Assets/features-background.png");
+  background-size: cover;
+  background-position: center;
+  background-color: rgb(17, 17, 149);  
+}
+
+
+
+
+.form-main-container{
+  background-image: url("Assets/form-Background.png");
+  background-size: cover;
+  background-position: center;
+  background-color: rgb(17, 17, 149);
+  
+}
+
+.main-container-call_to_action {
+  background-image: url("Assets/call\ to\ action\ background.png");
+  background-size: cover;
+  background-position: center;
+  background-color: rgb(17, 17, 149);
+}
+
+.player {
+  background: none;
+  width: 50px;
+  height: 50px;
+  border: solid 5px red;
+  border-radius: 100%;
+  position: relative;
+  background-color: red;
+  text-indent: -9999px;
+}
+
+.player span {
+  width: 0;
+  height: 0;
+  border-top: 15px solid transparent;
+  border-left: 20px solid #fff;
+  border-bottom: 15px solid transparent;
+  position: absolute;
+  top: 15%;
+  left: 36%;
+}
+
+.contact-main-container{
+  background-image: url("Assets/contact-background.png");
+  background-size: cover;
+  background-position: center;
+  background-color: rgb(17, 17, 149)
+}
+input[type=checkbox] {
+  accent-color:  #25DAC5;
+
+}
+
+
+.main-container-pricetable {
+  background-image: url("Assets/Background.png");
+  background-size: cover;
+  background-position: center;
+  background-color: rgb(17, 17, 149);
+}
+.list-item-with-image {
+  background-image: url("Assets/Check\ Icon.png");
+  background-repeat: no-repeat;
+  background-size: 20px;
+  background-position: left center;
+  padding-left: 30px;
+}
+
+
+
+
+
+
